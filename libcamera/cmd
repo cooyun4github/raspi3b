@@ -1,0 +1,1 @@
+rpicam-hello -t 0 --preview 50,50,800,600 --rotation 180
